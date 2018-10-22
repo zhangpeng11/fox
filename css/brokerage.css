@@ -1,0 +1,27 @@
+.img_box img{
+  position: relative;
+  z-index: -1;
+  top: -20px;
+  width: 100%;
+}
+.img_list{
+  margin-top: 65px;
+  display: flex;
+  justify-content: space-between;
+}
+.img_item{
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+}
+.img_item p {
+  margin-top: 20px;
+  font-size: 10px;
+}
+.img_item p span{
+  margin-top: 20px;
+  font-size: 16px;
+}
+body{
+  background-color: #dddee0;
+}

@@ -1,0 +1,32 @@
+.img_box img{
+  margin-top: 30px;
+  /* animation:myopacity 3s forwards;
+  -webkit-animation:myopacity 3s forwards; */
+}
+.title{
+  font-size: 36px;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 50px;
+}
+.sub_title{
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+}
+.text{
+  overflow: hidden;
+}
+.text span{
+  width: 50%;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  font-size: 18px;
+  text-decoration: underline;
+  text-align: left;
+  float: left;
+}

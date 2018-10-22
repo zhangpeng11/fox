@@ -1,0 +1,11 @@
+.content{
+  width: 1000px;
+  color: #272626;
+}
+.img_box img{
+  position: relative;
+  z-index: -1;
+  top: -20px;
+  width: 100%;
+  margin-bottom: 44px;
+}

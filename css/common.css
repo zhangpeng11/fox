@@ -130,4 +130,6 @@ body{
   /* font-size: 18px; */
   transform: scale(1.5);
   -webkit-transform-origin-x: 0px;
+  -ms-transform-origin-x: 0px;
+  -moz-transform-origin-x: 0px;
 }

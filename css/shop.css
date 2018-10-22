@@ -1,0 +1,22 @@
+.img_box img{
+  position: relative;
+  z-index: -1;
+  top: -20px;
+  width: 100%;
+}
+.img_list{
+  /* margin-top: 25px; */
+  display: flex;
+  justify-content: space-between;
+}
+.img_item{
+  display: inline-block;
+  text-align: center;
+}
+.img_item p {
+  height: 100px;
+  font-size: 14px;
+}
+body{
+  background-color: #dddee0;
+}
