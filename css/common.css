@@ -85,6 +85,15 @@ a,button,input{-webkit-tap-highlight-color:rgba(255,0,0,0);}
 .media.gray{
   background-image: url("../image/media_gray.png");
 }
+.media a{
+  width: 29px;
+  height: 29px;
+  display: inline-block;
+  margin-right: 21px;
+}
+.media a:last-of-type{
+  margin-right: 0px;
+}
 @keyframes myopacity
 {
   from {opacity: 0;}

@@ -1,7 +1,7 @@
 .img_box img{
   position: relative;
   z-index: -1;
-  top: -20px;
+  /* top: -20px; */
   width: 100%;
 }
 .img_list{
