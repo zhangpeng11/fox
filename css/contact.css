@@ -1,0 +1,25 @@
+.img_box{
+  width: 443px;
+  height: 478px;
+  display: inline-block;
+}
+.img_box img{
+  width: 100%;
+}
+.text {
+  display: inline-block;
+  margin: 50px 80px 0 50px;
+  vertical-align: top;
+}
+.text li{
+  margin-bottom: 20px;
+}
+.text p {
+  line-height: 30px;
+}
+.content{
+  padding: 130px 55px 160px 55px;
+}
+body{
+  background-color: #fbfbfb;
+}
