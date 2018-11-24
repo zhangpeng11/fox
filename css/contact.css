@@ -20,6 +20,31 @@
 .content{
   padding: 130px 55px 160px 55px;
 }
+.qr_code{
+  position: absolute;
+  bottom: 30px;
+  right: -150px;
+}
+.qr_code p{
+  font-size: 15px;
+  font-weight: 100;
+  color: #272626;
+  display: inline-block;
+}
+.code_img{
+  display: inline-block;
+  width: 156px;
+  height: 156px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('../image/contact/qr_code_image.png');
+}
 body{
   background-color: #fbfbfb;
+}
+.bottom_logo{
+  display: none;
+}
+.bottom{
+  margin-bottom: 100px;
 }
