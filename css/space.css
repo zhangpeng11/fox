@@ -87,7 +87,7 @@
 .block_5 .title, .block_5 .explation{
   font-size: 8px;
   padding: 20px;
-  color: #8c8c8c;
+  /* color: #8c8c8c; */
 }
 .block_5 .explation span{
   display: block;

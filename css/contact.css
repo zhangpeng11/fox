@@ -28,7 +28,7 @@
 .qr_code p{
   font-size: 15px;
   font-weight: 100;
-  color: #272626;
+  /* color: #272626; */
   display: inline-block;
 }
 .code_img{

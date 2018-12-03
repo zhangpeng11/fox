@@ -120,6 +120,9 @@ body{
   align-items: center;
   justify-content: space-between;
 }
+.content{
+  color: #555555;
+}
 .block h2{
   font-size: 35px;
   margin-bottom: 3px;
